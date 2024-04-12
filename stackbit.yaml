@@ -1,7 +1,0 @@
-stackbit:
-  apiId: <tu API ID de Stackbit>
-  apiToken: <tu token de API de Stackbit>
-  site:
-    build:
-      command: npm run build
-      publish: ./public
